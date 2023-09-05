@@ -86,4 +86,18 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahinalp&theme=holi-theme">
 </p>
 
-![Snake animation](https://github.com/sahinalp/sahinalp/blob/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/sahinalp/sahinalp/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/sahinalp/sahinalp/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/sahinalp/sahinalp/blob/output/github-contribution-grid-snake.svg"
+  />
+</picture>
