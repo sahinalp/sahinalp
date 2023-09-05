@@ -86,4 +86,4 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahinalp&theme=holi-theme">
 </p>
 
-![Snake animation](https://github.com/sahinalp/sahinalp/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sahinalp/sahinalp/blob/output/github-contribution-grid-snake-dark.svg)
