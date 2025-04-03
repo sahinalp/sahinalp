@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 
-- 👨🏽‍💻 I’m currently studying for a master’s degree in Computer Engineering at Ege university.
-- 🌱 I’m currently developing Data Science projects
-- 🤔 My interest lies in Data Science, Machine Learning, Deep Learning, Big Data, Blockchain
+- 👨🏽‍💻 I hold an MSc in Computer Engineering from Ege University.
+- 🌱 I’m currently developing Data Science projects.
+- 🤔 My interest lies in Data Science, Machine Learning, Deep Learning, Big Data, Cybersecurity, Blockchain
 
 
 
